@@ -1,351 +1,351 @@
 [
-ISBN: 1561556013
-Titolo: For a Breath I Tarry
-Anno di pubblicazione: 1936
-Numero di pagine: 141
-Autore: Kennith Zulauf
-Genere: Humor
+ISBN: 1922859811
+Titolo: What's Become of Waring
+Anno di pubblicazione: 1967
+Numero di pagine: 195
+Autore: Ronnie Harris
+Genere: Science fiction
 , 
-ISBN: 1906110285
-Titolo: Of Mice and Men
-Anno di pubblicazione: 2004
-Numero di pagine: 387
-Autore: Timmy Kreiger
-Genere: Fanfiction
-, 
-ISBN: 1882646731
-Titolo: As I Lay Dying
-Anno di pubblicazione: 1976
-Numero di pagine: 383
-Autore: Kennith Zulauf
-Genere: Tall tale
-, 
-ISBN: 446160428
-Titolo: A Glass of Blessings
-Anno di pubblicazione: 1905
-Numero di pagine: 341
-Autore: Timmy Kreiger
-Genere: Crime/Detective
-, 
-ISBN: 1597809371
-Titolo: Butter In a Lordly Dish
-Anno di pubblicazione: 1992
-Numero di pagine: 461
-Autore: Kennith Zulauf
+ISBN: 1542323748
+Titolo: A Scanner Darkly
+Anno di pubblicazione: 2002
+Numero di pagine: 118
+Autore: Dr. Leta Stamm
 Genere: Essay
 , 
-ISBN: 249443077
-Titolo: In a Dry Season
-Anno di pubblicazione: 1965
-Numero di pagine: 370
-Autore: Dr. Jorge Hartmann
-Genere: Horror
-, 
-ISBN: 905681428
-Titolo: Many Waters
-Anno di pubblicazione: 1946
-Numero di pagine: 326
-Autore: Timmy Kreiger
-Genere: Mythopoeia
-, 
-ISBN: 243369669
-Titolo: A Many-Splendoured Thing
-Anno di pubblicazione: 1967
-Numero di pagine: 176
-Autore: Dr. Jorge Hartmann
-Genere: Textbook
-, 
-ISBN: 1180223208
-Titolo: Quo Vadis
-Anno di pubblicazione: 1926
-Numero di pagine: 117
-Autore: Kennith Zulauf
-Genere: Fanfiction
-, 
-ISBN: 1220445364
-Titolo: The Waste Land
-Anno di pubblicazione: 1915
-Numero di pagine: 299
-Autore: Lauren Witting V
-Genere: Western
-, 
-ISBN: 1029488580
-Titolo: The Mirror Crack'd from Side to Side
-Anno di pubblicazione: 1942
-Numero di pagine: 80
-Autore: Lauren Witting V
-Genere: Humor
-, 
-ISBN: 247929778
-Titolo: Absalom, Absalom!
-Anno di pubblicazione: 1998
-Numero di pagine: 135
-Autore: Lauren Witting V
-Genere: Textbook
-, 
-ISBN: 1105706574
-Titolo: Eyeless in Gaza
-Anno di pubblicazione: 1930
-Numero di pagine: 228
-Autore: Timmy Kreiger
-Genere: Western
-, 
-ISBN: 1386846076
-Titolo: The Cricket on the Hearth
-Anno di pubblicazione: 2015
-Numero di pagine: 291
-Autore: Timmy Kreiger
-Genere: Mythopoeia
-, 
-ISBN: 996740263
-Titolo: For Whom the Bell Tolls
-Anno di pubblicazione: 1917
-Numero di pagine: 53
-Autore: Timmy Kreiger
+ISBN: 31246457
+Titolo: Consider Phlebas
+Anno di pubblicazione: 1999
+Numero di pagine: 140
+Autore: Elodia Fisher
 Genere: Comic/Graphic Novel
 , 
-ISBN: 1913233894
-Titolo: Moab Is My Washpot
-Anno di pubblicazione: 2023
-Numero di pagine: 136
-Autore: Lauren Witting V
-Genere: Humor
-, 
-ISBN: 1721686697
-Titolo: Lilies of the Field
-Anno di pubblicazione: 1901
-Numero di pagine: 68
-Autore: Dr. Jorge Hartmann
-Genere: Essay
-, 
-ISBN: 771763231
-Titolo: Let Us Now Praise Famous Men
-Anno di pubblicazione: 1945
-Numero di pagine: 309
-Autore: Timmy Kreiger
-Genere: Classic
-, 
-ISBN: 973306664
-Titolo: The Wives of Bath
-Anno di pubblicazione: 1907
-Numero di pagine: 340
-Autore: Dr. Jorge Hartmann
-Genere: Short story
-, 
-ISBN: 655835122
-Titolo: Time To Murder And Create
-Anno di pubblicazione: 1946
-Numero di pagine: 92
-Autore: Dr. Jorge Hartmann
-Genere: Textbook
-, 
-ISBN: 1261242674
-Titolo: The Cricket on the Hearth
-Anno di pubblicazione: 1952
-Numero di pagine: 312
-Autore: Kennith Zulauf
-Genere: Realistic fiction
-, 
-ISBN: 1039579393
-Titolo: The Other Side of Silence
-Anno di pubblicazione: 1946
-Numero di pagine: 190
-Autore: Kennith Zulauf
+ISBN: 343934688
+Titolo: Dance Dance Dance
+Anno di pubblicazione: 1938
+Numero di pagine: 254
+Autore: Ronnie Harris
 Genere: Reference book
 , 
-ISBN: 1778677073
-Titolo: O Jerusalem!
-Anno di pubblicazione: 1921
-Numero di pagine: 487
-Autore: Kennith Zulauf
-Genere: Fable
+ISBN: 1949847832
+Titolo: As I Lay Dying
+Anno di pubblicazione: 1988
+Numero di pagine: 410
+Autore: Dr. Leta Stamm
+Genere: Legend
 , 
-ISBN: 1459021322
-Titolo: The Moving Toyshop
-Anno di pubblicazione: 1949
-Numero di pagine: 232
-Autore: Dr. Jorge Hartmann
+ISBN: 67782982
+Titolo: The Far-Distant Oxus
+Anno di pubblicazione: 1954
+Numero di pagine: 369
+Autore: Ronnie Harris
 Genere: Fantasy
 , 
-ISBN: 331502572
-Titolo: Little Hands Clapping
-Anno di pubblicazione: 1947
-Numero di pagine: 202
-Autore: Lauren Witting V
-Genere: Legend
+ISBN: 1712036967
+Titolo: A Scanner Darkly
+Anno di pubblicazione: 1999
+Numero di pagine: 354
+Autore: Elodia Fisher
+Genere: Realistic fiction
 , 
-ISBN: 975836019
-Titolo: Many Waters
-Anno di pubblicazione: 1970
-Numero di pagine: 348
-Autore: Lauren Witting V
-Genere: Humor
-, 
-ISBN: 591756756
-Titolo: The Little Foxes
-Anno di pubblicazione: 1903
-Numero di pagine: 159
-Autore: Lauren Witting V
-Genere: Suspense/Thriller
-, 
-ISBN: 403967996
-Titolo: Beyond the Mexique Bay
-Anno di pubblicazione: 1970
-Numero di pagine: 197
-Autore: Timmy Kreiger
-Genere: Historical fiction
-, 
-ISBN: 1781696104
-Titolo: The House of Mirth
-Anno di pubblicazione: 1972
-Numero di pagine: 480
-Autore: Kennith Zulauf
-Genere: Reference book
-, 
-ISBN: 750678775
-Titolo: Little Hands Clapping
-Anno di pubblicazione: 1998
-Numero di pagine: 185
-Autore: Kennith Zulauf
+ISBN: 1127047206
+Titolo: The Waste Land
+Anno di pubblicazione: 2018
+Numero di pagine: 153
+Autore: Ronnie Harris
 Genere: Mythology
 , 
-ISBN: 1310989787
-Titolo: In Dubious Battle
-Anno di pubblicazione: 1973
-Numero di pagine: 91
-Autore: Dr. Jorge Hartmann
-Genere: Realistic fiction
+ISBN: 1558393740
+Titolo: The Violent Bear It Away
+Anno di pubblicazione: 1916
+Numero di pagine: 459
+Autore: Ronnie Harris
+Genere: Essay
 , 
-ISBN: 1557939113
-Titolo: Taming a Sea Horse
-Anno di pubblicazione: 1974
-Numero di pagine: 277
-Autore: Timmy Kreiger
-Genere: Folklore
-, 
-ISBN: 178676369
+ISBN: 1583486274
 Titolo: Bury My Heart at Wounded Knee
-Anno di pubblicazione: 1954
-Numero di pagine: 299
-Autore: Timmy Kreiger
-Genere: Speech
-, 
-ISBN: 145057959
-Titolo: The Line of Beauty
-Anno di pubblicazione: 2011
-Numero di pagine: 427
-Autore: Dr. Jorge Hartmann
-Genere: Comic/Graphic Novel
-, 
-ISBN: 1578087775
-Titolo: A Time of Gifts
-Anno di pubblicazione: 1915
-Numero di pagine: 293
-Autore: Kennith Zulauf
-Genere: Fairy tale
-, 
-ISBN: 939556888
-Titolo: Precious Bane
-Anno di pubblicazione: 2003
-Numero di pagine: 499
-Autore: Lauren Witting V
+Anno di pubblicazione: 1961
+Numero di pagine: 445
+Autore: Dr. Leta Stamm
 Genere: Textbook
 , 
-ISBN: 1787286991
-Titolo: The Wings of the Dove
-Anno di pubblicazione: 1915
-Numero di pagine: 294
-Autore: Timmy Kreiger
-Genere: Humor
-, 
-ISBN: 1249345524
-Titolo: All Passion Spent
-Anno di pubblicazione: 1917
-Numero di pagine: 253
-Autore: Kennith Zulauf
-Genere: Short story
-, 
-ISBN: 815343420
-Titolo: Moab Is My Washpot
-Anno di pubblicazione: 1927
-Numero di pagine: 295
-Autore: Timmy Kreiger
-Genere: Realistic fiction
-, 
-ISBN: 1894065412
-Titolo: The Mirror Crack'd from Side to Side
-Anno di pubblicazione: 1981
-Numero di pagine: 180
-Autore: Kennith Zulauf
-Genere: Short story
-, 
-ISBN: 884121202
-Titolo: The Painted Veil
-Anno di pubblicazione: 1958
-Numero di pagine: 243
-Autore: Kennith Zulauf
-Genere: Metafiction
-, 
-ISBN: 1289328623
-Titolo: Tiger! Tiger!
-Anno di pubblicazione: 1900
-Numero di pagine: 169
-Autore: Timmy Kreiger
-Genere: Legend
-, 
-ISBN: 1751974836
-Titolo: Pale Kings and Princes
-Anno di pubblicazione: 1948
-Numero di pagine: 141
-Autore: Timmy Kreiger
-Genere: Biography/Autobiography
-, 
-ISBN: 1595674956
-Titolo: Unweaving the Rainbow
-Anno di pubblicazione: 1940
-Numero di pagine: 345
-Autore: Lauren Witting V
-Genere: Biography/Autobiography
-, 
-ISBN: 1924168278
-Titolo: Time To Murder And Create
-Anno di pubblicazione: 1994
-Numero di pagine: 166
-Autore: Lauren Witting V
-Genere: Crime/Detective
-, 
-ISBN: 1078598568
-Titolo: No Longer at Ease
-Anno di pubblicazione: 1952
-Numero di pagine: 214
-Autore: Kennith Zulauf
-Genere: Fairy tale
-, 
-ISBN: 50314896
-Titolo: Little Hands Clapping
-Anno di pubblicazione: 1961
-Numero di pagine: 425
-Autore: Dr. Jorge Hartmann
-Genere: Crime/Detective
-, 
-ISBN: 1888744502
-Titolo: In Dubious Battle
-Anno di pubblicazione: 1921
-Numero di pagine: 435
-Autore: Kennith Zulauf
+ISBN: 892238076
+Titolo: If I Forget Thee Jerusalem
+Anno di pubblicazione: 1984
+Numero di pagine: 370
+Autore: Ronnie Harris
 Genere: Suspense/Thriller
 , 
-ISBN: 1102644509
-Titolo: Sleep the Brave
-Anno di pubblicazione: 1921
-Numero di pagine: 312
-Autore: Lauren Witting V
+ISBN: 548800899
+Titolo: The Lathe of Heaven
+Anno di pubblicazione: 2017
+Numero di pagine: 140
+Autore: Ronnie Harris
 Genere: Narrative nonfiction
 , 
-ISBN: 214767304
-Titolo: Butter In a Lordly Dish
-Anno di pubblicazione: 1993
-Numero di pagine: 371
-Autore: Lauren Witting V
+ISBN: 1245659485
+Titolo: Taming a Sea Horse
+Anno di pubblicazione: 2003
+Numero di pagine: 195
+Autore: Elodia Fisher
+Genere: Folklore
+, 
+ISBN: 145859610
+Titolo: Shall not Perish
+Anno di pubblicazione: 1923
+Numero di pagine: 78
+Autore: Dr. Leta Stamm
+Genere: Fairy tale
+, 
+ISBN: 1826357822
+Titolo: All the King's Men
+Anno di pubblicazione: 1994
+Numero di pagine: 198
+Autore: Neville Bruen V
+Genere: Textbook
+, 
+ISBN: 394973638
+Titolo: Dying of the Light
+Anno di pubblicazione: 1941
+Numero di pagine: 92
+Autore: Ronnie Harris
+Genere: Comic/Graphic Novel
+, 
+ISBN: 429344089
+Titolo: Moab Is My Washpot
+Anno di pubblicazione: 2020
+Numero di pagine: 303
+Autore: Ronnie Harris
+Genere: Fanfiction
+, 
+ISBN: 1874357261
+Titolo: Lilies of the Field
+Anno di pubblicazione: 1938
+Numero di pagine: 490
+Autore: Ronnie Harris
+Genere: Fanfiction
+, 
+ISBN: 854213586
+Titolo: Pale Kings and Princes
+Anno di pubblicazione: 1987
+Numero di pagine: 287
+Autore: Dr. Leta Stamm
+Genere: Biography/Autobiography
+, 
+ISBN: 862403689
+Titolo: The Wings of the Dove
+Anno di pubblicazione: 1933
+Numero di pagine: 190
+Autore: Elodia Fisher
+Genere: Essay
+, 
+ISBN: 218866772
+Titolo: Oh! To be in England
+Anno di pubblicazione: 1988
+Numero di pagine: 174
+Autore: Ronnie Harris
+Genere: Fable
+, 
+ISBN: 1647412433
+Titolo: The Skull Beneath the Skin
+Anno di pubblicazione: 2000
+Numero di pagine: 196
+Autore: Dr. Leta Stamm
+Genere: Horror
+, 
+ISBN: 1846125278
+Titolo: To Your Scattered Bodies Go
+Anno di pubblicazione: 1932
+Numero di pagine: 82
+Autore: Ronnie Harris
+Genere: Crime/Detective
+, 
+ISBN: 905184855
+Titolo: In a Dry Season
+Anno di pubblicazione: 1902
+Numero di pagine: 185
+Autore: Ronnie Harris
+Genere: Suspense/Thriller
+, 
+ISBN: 283739865
+Titolo: An Acceptable Time
+Anno di pubblicazione: 1990
+Numero di pagine: 424
+Autore: Elodia Fisher
+Genere: Reference book
+, 
+ISBN: 1179755255
+Titolo: The Waste Land
+Anno di pubblicazione: 1950
+Numero di pagine: 160
+Autore: Ronnie Harris
+Genere: Classic
+, 
+ISBN: 787523371
+Titolo: Gone with the Wind
+Anno di pubblicazione: 2007
+Numero di pagine: 125
+Autore: Ronnie Harris
+Genere: Fable
+, 
+ISBN: 1731298371
+Titolo: The Man Within
+Anno di pubblicazione: 1912
+Numero di pagine: 356
+Autore: Elodia Fisher
 Genere: Historical fiction
+, 
+ISBN: 1285774108
+Titolo: A Monstrous Regiment of Women
+Anno di pubblicazione: 1961
+Numero di pagine: 340
+Autore: Dr. Leta Stamm
+Genere: Legend
+, 
+ISBN: 1679936000
+Titolo: A Swiftly Tilting Planet
+Anno di pubblicazione: 1906
+Numero di pagine: 323
+Autore: Ronnie Harris
+Genere: Mythopoeia
+, 
+ISBN: 950957466
+Titolo: Frequent Hearses
+Anno di pubblicazione: 2016
+Numero di pagine: 385
+Autore: Dr. Leta Stamm
+Genere: Fanfiction
+, 
+ISBN: 581953426
+Titolo: Time of our Darkness
+Anno di pubblicazione: 2017
+Numero di pagine: 369
+Autore: Ronnie Harris
+Genere: Short story
+, 
+ISBN: 808549577
+Titolo: The Man Within
+Anno di pubblicazione: 1955
+Numero di pagine: 228
+Autore: Neville Bruen V
+Genere: Fairy tale
+, 
+ISBN: 847363378
+Titolo: Blood's a Rover
+Anno di pubblicazione: 2007
+Numero di pagine: 444
+Autore: Dr. Leta Stamm
+Genere: Comic/Graphic Novel
+, 
+ISBN: 1472730955
+Titolo: Things Fall Apart
+Anno di pubblicazione: 2004
+Numero di pagine: 273
+Autore: Neville Bruen V
+Genere: Mythology
+, 
+ISBN: 1568708920
+Titolo: Fair Stood the Wind for France
+Anno di pubblicazione: 1987
+Numero di pagine: 497
+Autore: Elodia Fisher
+Genere: Fiction in verse
+, 
+ISBN: 987488634
+Titolo: Oh! To be in England
+Anno di pubblicazione: 2004
+Numero di pagine: 132
+Autore: Ronnie Harris
+Genere: Short story
+, 
+ISBN: 1634410832
+Titolo: The Cricket on the Hearth
+Anno di pubblicazione: 1934
+Numero di pagine: 209
+Autore: Elodia Fisher
+Genere: Legend
+, 
+ISBN: 451127978
+Titolo: I Know Why the Caged Bird Sings
+Anno di pubblicazione: 1983
+Numero di pagine: 180
+Autore: Ronnie Harris
+Genere: Mystery
+, 
+ISBN: 1908614086
+Titolo: Fear and Trembling
+Anno di pubblicazione: 2004
+Numero di pagine: 284
+Autore: Neville Bruen V
+Genere: Humor
+, 
+ISBN: 131406442
+Titolo: The Last Temptation
+Anno di pubblicazione: 1944
+Numero di pagine: 378
+Autore: Ronnie Harris
+Genere: Folklore
+, 
+ISBN: 715935932
+Titolo: Blood's a Rover
+Anno di pubblicazione: 1905
+Numero di pagine: 249
+Autore: Elodia Fisher
+Genere: Horror
+, 
+ISBN: 1051573697
+Titolo: Paths of Glory
+Anno di pubblicazione: 1919
+Numero di pagine: 410
+Autore: Ronnie Harris
+Genere: Narrative nonfiction
+, 
+ISBN: 988863344
+Titolo: Let Us Now Praise Famous Men
+Anno di pubblicazione: 1904
+Numero di pagine: 173
+Autore: Dr. Leta Stamm
+Genere: Science fiction
+, 
+ISBN: 580418674
+Titolo: A Passage to India
+Anno di pubblicazione: 1920
+Numero di pagine: 149
+Autore: Elodia Fisher
+Genere: Fantasy
+, 
+ISBN: 1023476601
+Titolo: The Lathe of Heaven
+Anno di pubblicazione: 1962
+Numero di pagine: 301
+Autore: Neville Bruen V
+Genere: Fanfiction
+, 
+ISBN: 1356101178
+Titolo: The Golden Bowl
+Anno di pubblicazione: 1998
+Numero di pagine: 78
+Autore: Elodia Fisher
+Genere: Fable
+, 
+ISBN: 726478108
+Titolo: To a God Unknown
+Anno di pubblicazione: 1947
+Numero di pagine: 407
+Autore: Elodia Fisher
+Genere: Essay
+, 
+ISBN: 675226174
+Titolo: I Sing the Body Electric
+Anno di pubblicazione: 1935
+Numero di pagine: 417
+Autore: Ronnie Harris
+Genere: Short story
+, 
+ISBN: 1608830052
+Titolo: To Your Scattered Bodies Go
+Anno di pubblicazione: 1979
+Numero di pagine: 203
+Autore: Ronnie Harris
+Genere: Metafiction
 ]

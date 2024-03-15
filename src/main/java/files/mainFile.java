@@ -32,25 +32,23 @@ public class mainFile {
         for (int i = 0; i < 50; i++) {
             libriList.add(randomLibri.get());
         }
-        libriList.forEach(System.out::println);
         //RIVISTE RANDOM
         List<Riviste> rivisteList = new ArrayList<>();
         for (int i = 0; i < 50; i++) {
             rivisteList.add(randomRiviste.get());
         }
-        rivisteList.forEach(System.out::println);
         File libri = new File("src/main/java/files/libri.txt");
         File riviste = new File("src/main/java/files/riviste.txt");
-        System.out.println(libri.exists());
-        System.out.println(riviste.exists());
         try {
-            FileUtils.writeStringToFile(libri, libriList + System.lineSeparator(), StandardCharsets.UTF_8, true);
-            FileUtils.writeStringToFile(riviste, rivisteList + System.lineSeparator(), StandardCharsets.UTF_8, true);
+            FileUtils.writeStringToFile(libri, libriList + System.lineSeparator(), StandardCharsets.UTF_8);
+            FileUtils.writeStringToFile(riviste, rivisteList + System.lineSeparator(), StandardCharsets.UTF_8);
             System.out.println("Scritto!");
+            // CONTENUTO FILE
             String contenutoLibro = FileUtils.readFileToString(libri, StandardCharsets.UTF_8);
-            String contenutoRiviste = FileUtils.readFileToString(libri, StandardCharsets.UTF_8);
-            System.out.println("CONTENUTO FILE");
+            String contenutoRiviste = FileUtils.readFileToString(riviste, StandardCharsets.UTF_8);
+            System.out.println("---------------LIBRI-------------");
             System.out.println(contenutoLibro);
+            System.out.println("---------------RIVISTE-------------");
             System.out.println(contenutoRiviste);
         } catch (IOException e) {
             System.err.println(e.getMessage());

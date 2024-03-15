@@ -38,6 +38,7 @@ public class Application {
             rivisteList.add(randomRiviste.get());
         }
         rivisteList.forEach(System.out::println);
+
         // Scanner per la scelta dell'utente
         Scanner scanner = new Scanner(System.in);
         System.out.println("Benvenuti nel nostro store di libri e riviste!");

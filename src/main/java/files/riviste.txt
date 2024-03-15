@@ -1,301 +1,301 @@
 [
-ISBN: 1680329081
-Titolo: The Moving Toyshop
-Anno di pubblicazione: 1911
-Numero di pagine: 238
+ISBN: 776949715
+Titolo: Antic Hay
+Anno di pubblicazione: 1900
+Numero di pagine: 172
 Periodicità: MENSILE
 , 
-ISBN: 1915006997
-Titolo: Beyond the Mexique Bay
-Anno di pubblicazione: 1993
-Numero di pagine: 166
-Periodicità: MENSILE
-, 
-ISBN: 1630151715
-Titolo: After Many a Summer Dies the Swan
-Anno di pubblicazione: 1995
-Numero di pagine: 109
+ISBN: 1610358013
+Titolo: The Heart Is a Lonely Hunter
+Anno di pubblicazione: 1949
+Numero di pagine: 378
 Periodicità: SEMESTRALE
 , 
-ISBN: 723654643
-Titolo: Consider the Lilies
-Anno di pubblicazione: 1987
-Numero di pagine: 439
-Periodicità: SEMESTRALE
+ISBN: 508026066
+Titolo: All the King's Men
+Anno di pubblicazione: 1919
+Numero di pagine: 196
+Periodicità: SETTIMANALE
 , 
-ISBN: 575842523
-Titolo: When the Green Woods Laugh
-Anno di pubblicazione: 1905
-Numero di pagine: 50
-Periodicità: SEMESTRALE
-, 
-ISBN: 928928669
-Titolo: Unweaving the Rainbow
-Anno di pubblicazione: 1915
-Numero di pagine: 170
+ISBN: 1884543558
+Titolo: The Moving Finger
+Anno di pubblicazione: 1931
+Numero di pagine: 299
 Periodicità: MENSILE
 , 
-ISBN: 1099943140
-Titolo: Paths of Glory
-Anno di pubblicazione: 1953
-Numero di pagine: 446
+ISBN: 4365273
+Titolo: Blithe Spirit
+Anno di pubblicazione: 1992
+Numero di pagine: 194
 Periodicità: MENSILE
 , 
-ISBN: 361996269
+ISBN: 988826562
+Titolo: Those Barren Leaves, Thrones, Dominations
+Anno di pubblicazione: 1914
+Numero di pagine: 161
+Periodicità: MENSILE
+, 
+ISBN: 1192310967
+Titolo: Fame Is the Spur
+Anno di pubblicazione: 2015
+Numero di pagine: 268
+Periodicità: SEMESTRALE
+, 
+ISBN: 1220237660
+Titolo: To a God Unknown
+Anno di pubblicazione: 1952
+Numero di pagine: 396
+Periodicità: SEMESTRALE
+, 
+ISBN: 1099193413
+Titolo: Of Human Bondage
+Anno di pubblicazione: 1964
+Numero di pagine: 55
+Periodicità: SEMESTRALE
+, 
+ISBN: 36466346
+Titolo: All Passion Spent
+Anno di pubblicazione: 1920
+Numero di pagine: 495
+Periodicità: SEMESTRALE
+, 
+ISBN: 1105626022
+Titolo: The Wives of Bath
+Anno di pubblicazione: 1937
+Numero di pagine: 301
+Periodicità: SEMESTRALE
+, 
+ISBN: 592545323
+Titolo: For Whom the Bell Tolls
+Anno di pubblicazione: 2006
+Numero di pagine: 59
+Periodicità: MENSILE
+, 
+ISBN: 1556250503
 Titolo: The Last Temptation
-Anno di pubblicazione: 1994
-Numero di pagine: 120
+Anno di pubblicazione: 1967
+Numero di pagine: 176
 Periodicità: MENSILE
 , 
-ISBN: 889023442
-Titolo: The Grapes of Wrath
-Anno di pubblicazione: 1938
-Numero di pagine: 332
-Periodicità: SETTIMANALE
-, 
-ISBN: 477894841
-Titolo: Many Waters
-Anno di pubblicazione: 1932
-Numero di pagine: 124
+ISBN: 792091787
+Titolo: A Summer Bird-Cage
+Anno di pubblicazione: 1909
+Numero di pagine: 257
 Periodicità: SEMESTRALE
 , 
-ISBN: 768106936
-Titolo: It's a Battlefield
-Anno di pubblicazione: 1966
-Numero di pagine: 126
-Periodicità: MENSILE
-, 
-ISBN: 1546449116
-Titolo: Françoise Sagan
-Anno di pubblicazione: 1988
-Numero di pagine: 250
-Periodicità: SETTIMANALE
-, 
-ISBN: 1308523190
-Titolo: Time To Murder And Create
-Anno di pubblicazione: 1953
-Numero di pagine: 327
-Periodicità: SETTIMANALE
-, 
-ISBN: 326860055
-Titolo: Quo Vadis
-Anno di pubblicazione: 1915
+ISBN: 1841470301
+Titolo: The Man Within
+Anno di pubblicazione: 1929
 Numero di pagine: 165
 Periodicità: SETTIMANALE
 , 
-ISBN: 291958635
-Titolo: Antic Hay
-Anno di pubblicazione: 1961
-Numero di pagine: 74
-Periodicità: SETTIMANALE
-, 
-ISBN: 574054064
-Titolo: The Sun Also Rises
-Anno di pubblicazione: 1917
-Numero di pagine: 189
-Periodicità: SEMESTRALE
-, 
-ISBN: 1251053329
-Titolo: The Wings of the Dove
-Anno di pubblicazione: 1925
-Numero di pagine: 134
-Periodicità: MENSILE
-, 
-ISBN: 333274403
-Titolo: Lilies of the Field
-Anno di pubblicazione: 2000
-Numero di pagine: 319
-Periodicità: SEMESTRALE
-, 
-ISBN: 1987808350
-Titolo: A Many-Splendoured Thing
-Anno di pubblicazione: 1936
-Numero di pagine: 459
-Periodicità: SETTIMANALE
-, 
-ISBN: 1289780856
-Titolo: The Last Temptation
-Anno di pubblicazione: 2006
-Numero di pagine: 433
-Periodicità: SETTIMANALE
-, 
-ISBN: 1497754207
-Titolo: Death Be Not Proud
-Anno di pubblicazione: 1986
-Numero di pagine: 70
-Periodicità: MENSILE
-, 
-ISBN: 1690999044
-Titolo: Moab Is My Washpot
-Anno di pubblicazione: 1919
-Numero di pagine: 58
-Periodicità: SETTIMANALE
-, 
-ISBN: 672693421
-Titolo: Arms and the Man
-Anno di pubblicazione: 1906
-Numero di pagine: 311
-Periodicità: SEMESTRALE
-, 
-ISBN: 513873011
-Titolo: Recalled to Life
-Anno di pubblicazione: 1945
-Numero di pagine: 204
-Periodicità: SEMESTRALE
-, 
-ISBN: 142206877
-Titolo: Consider Phlebas
-Anno di pubblicazione: 1957
-Numero di pagine: 258
-Periodicità: MENSILE
-, 
-ISBN: 413045611
-Titolo: The Daffodil Sky
-Anno di pubblicazione: 1996
-Numero di pagine: 488
-Periodicità: SEMESTRALE
-, 
-ISBN: 728722839
-Titolo: The Moving Finger
-Anno di pubblicazione: 1911
-Numero di pagine: 440
-Periodicità: MENSILE
-, 
-ISBN: 1599595155
-Titolo: Tender Is the Night
-Anno di pubblicazione: 1908
-Numero di pagine: 76
-Periodicità: SETTIMANALE
-, 
-ISBN: 829666539
-Titolo: A Scanner Darkly
-Anno di pubblicazione: 1997
-Numero di pagine: 337
-Periodicità: SEMESTRALE
-, 
-ISBN: 702910663
-Titolo: The Green Bay Tree
+ISBN: 289852380
+Titolo: Beneath the Bleeding
 Anno di pubblicazione: 2011
-Numero di pagine: 229
+Numero di pagine: 100
 Periodicità: MENSILE
 , 
-ISBN: 917247372
-Titolo: I Know Why the Caged Bird Sings
-Anno di pubblicazione: 1974
-Numero di pagine: 350
+ISBN: 1041591467
+Titolo: Oh! To be in England
+Anno di pubblicazione: 1963
+Numero di pagine: 175
+Periodicità: MENSILE
+, 
+ISBN: 1911115485
+Titolo: Vile Bodies
+Anno di pubblicazione: 1998
+Numero di pagine: 494
+Periodicità: MENSILE
+, 
+ISBN: 1214597691
+Titolo: Number the Stars
+Anno di pubblicazione: 1975
+Numero di pagine: 298
 Periodicità: SEMESTRALE
 , 
-ISBN: 942839715
-Titolo: The Man Within
-Anno di pubblicazione: 2004
-Numero di pagine: 291
-Periodicità: SETTIMANALE
+ISBN: 1311681588
+Titolo: Those Barren Leaves, Thrones, Dominations
+Anno di pubblicazione: 2014
+Numero di pagine: 289
+Periodicità: MENSILE
 , 
-ISBN: 170720337
-Titolo: The Moon by Night
-Anno di pubblicazione: 1956
-Numero di pagine: 431
-Periodicità: SETTIMANALE
+ISBN: 722430818
+Titolo: His Dark Materials
+Anno di pubblicazione: 1903
+Numero di pagine: 68
+Periodicità: MENSILE
 , 
-ISBN: 161624517
-Titolo: Fear and Trembling
-Anno di pubblicazione: 1956
-Numero di pagine: 473
+ISBN: 554944949
+Titolo: A Handful of Dust
+Anno di pubblicazione: 1928
+Numero di pagine: 125
 Periodicità: SEMESTRALE
 , 
-ISBN: 1820255537
-Titolo: I Know Why the Caged Bird Sings
-Anno di pubblicazione: 2016
-Numero di pagine: 109
-Periodicità: SETTIMANALE
-, 
-ISBN: 532822288
-Titolo: The Needle's Eye
+ISBN: 1642573630
+Titolo: Those Barren Leaves, Thrones, Dominations
 Anno di pubblicazione: 1996
-Numero di pagine: 456
-Periodicità: SETTIMANALE
+Numero di pagine: 62
+Periodicità: SEMESTRALE
 , 
-ISBN: 561012101
-Titolo: If I Forget Thee Jerusalem
+ISBN: 1601349530
+Titolo: Specimen Days
 Anno di pubblicazione: 1940
-Numero di pagine: 209
-Periodicità: SETTIMANALE
-, 
-ISBN: 1058213092
-Titolo: Arms and the Man
-Anno di pubblicazione: 1922
-Numero di pagine: 435
-Periodicità: MENSILE
-, 
-ISBN: 1053691466
-Titolo: A Passage to India
-Anno di pubblicazione: 1972
-Numero di pagine: 130
+Numero di pagine: 365
 Periodicità: SEMESTRALE
 , 
-ISBN: 392551618
-Titolo: Many Waters
-Anno di pubblicazione: 2017
-Numero di pagine: 305
-Periodicità: SEMESTRALE
-, 
-ISBN: 1276503069
-Titolo: The Moving Toyshop
-Anno di pubblicazione: 1958
-Numero di pagine: 94
+ISBN: 1568017401
+Titolo: The World, the Flesh and the Devil
+Anno di pubblicazione: 1924
+Numero di pagine: 480
 Periodicità: MENSILE
 , 
-ISBN: 1877181109
-Titolo: The Golden Apples of the Sun
-Anno di pubblicazione: 1902
-Numero di pagine: 248
+ISBN: 778011594
+Titolo: Oh! To be in England
+Anno di pubblicazione: 2007
+Numero di pagine: 106
 Periodicità: SETTIMANALE
 , 
-ISBN: 879945643
-Titolo: The Widening Gyre
-Anno di pubblicazione: 1974
-Numero di pagine: 441
-Periodicità: SETTIMANALE
-, 
-ISBN: 1205668324
-Titolo: Time of our Darkness
-Anno di pubblicazione: 1966
-Numero di pagine: 287
-Periodicità: SETTIMANALE
-, 
-ISBN: 91617990
-Titolo: Noli Me Tangere
-Anno di pubblicazione: 1911
-Numero di pagine: 372
-Periodicità: SETTIMANALE
-, 
-ISBN: 40461370
-Titolo: The Lathe of Heaven
-Anno di pubblicazione: 1996
-Numero di pagine: 58
-Periodicità: SETTIMANALE
-, 
-ISBN: 522123985
-Titolo: Gone with the Wind
-Anno di pubblicazione: 1962
-Numero di pagine: 171
+ISBN: 17538490
+Titolo: The Monkey's Raincoat
+Anno di pubblicazione: 2009
+Numero di pagine: 108
 Periodicità: MENSILE
 , 
-ISBN: 1552339281
-Titolo: The Moving Toyshop
-Anno di pubblicazione: 1971
-Numero di pagine: 235
+ISBN: 1779193860
+Titolo: Of Mice and Men
+Anno di pubblicazione: 1949
+Numero di pagine: 404
 Periodicità: SEMESTRALE
 , 
-ISBN: 1977113280
-Titolo: The Wings of the Dove
-Anno di pubblicazione: 2018
-Numero di pagine: 109
-Periodicità: SETTIMANALE
+ISBN: 124450604
+Titolo: I Know Why the Caged Bird Sings
+Anno di pubblicazione: 2012
+Numero di pagine: 203
+Periodicità: SEMESTRALE
 , 
-ISBN: 133590423
-Titolo: To Sail Beyond the Sunset
+ISBN: 180958046
+Titolo: This Side of Paradise
 Anno di pubblicazione: 2000
-Numero di pagine: 443
+Numero di pagine: 486
+Periodicità: MENSILE
+, 
+ISBN: 561093450
+Titolo: Fear and Trembling
+Anno di pubblicazione: 1952
+Numero di pagine: 232
+Periodicità: SETTIMANALE
+, 
+ISBN: 376476171
+Titolo: Wildfire at Midnight
+Anno di pubblicazione: 1930
+Numero di pagine: 449
+Periodicità: SETTIMANALE
+, 
+ISBN: 107284035
+Titolo: Edna O'Brien
+Anno di pubblicazione: 1988
+Numero di pagine: 334
 Periodicità: SEMESTRALE
+, 
+ISBN: 1388789971
+Titolo: Gone with the Wind
+Anno di pubblicazione: 1905
+Numero di pagine: 242
+Periodicità: SEMESTRALE
+, 
+ISBN: 239838519
+Titolo: Blue Remembered Earth
+Anno di pubblicazione: 1977
+Numero di pagine: 116
+Periodicità: SETTIMANALE
+, 
+ISBN: 977984893
+Titolo: Quo Vadis
+Anno di pubblicazione: 1937
+Numero di pagine: 278
+Periodicità: SETTIMANALE
+, 
+ISBN: 1207340000
+Titolo: This Side of Paradise
+Anno di pubblicazione: 1934
+Numero di pagine: 355
+Periodicità: SEMESTRALE
+, 
+ISBN: 1463368709
+Titolo: Look Homeward, Angel
+Anno di pubblicazione: 1963
+Numero di pagine: 356
+Periodicità: SEMESTRALE
+, 
+ISBN: 1779559889
+Titolo: Let Us Now Praise Famous Men
+Anno di pubblicazione: 1987
+Numero di pagine: 448
+Periodicità: MENSILE
+, 
+ISBN: 1258866318
+Titolo: The World, the Flesh and the Devil
+Anno di pubblicazione: 1930
+Numero di pagine: 124
+Periodicità: SEMESTRALE
+, 
+ISBN: 957863586
+Titolo: Jacob Have I Loved
+Anno di pubblicazione: 2002
+Numero di pagine: 241
+Periodicità: MENSILE
+, 
+ISBN: 1097524486
+Titolo: Shall not Perish
+Anno di pubblicazione: 1990
+Numero di pagine: 73
+Periodicità: MENSILE
+, 
+ISBN: 283018281
+Titolo: Dance Dance Dance
+Anno di pubblicazione: 1932
+Numero di pagine: 480
+Periodicità: SEMESTRALE
+, 
+ISBN: 512913805
+Titolo: Gone with the Wind
+Anno di pubblicazione: 2005
+Numero di pagine: 203
+Periodicità: MENSILE
+, 
+ISBN: 1456004474
+Titolo: From Here to Eternity
+Anno di pubblicazione: 1987
+Numero di pagine: 66
+Periodicità: SETTIMANALE
+, 
+ISBN: 606653640
+Titolo: Blithe Spirit
+Anno di pubblicazione: 1983
+Numero di pagine: 256
+Periodicità: SETTIMANALE
+, 
+ISBN: 1680379210
+Titolo: Eyeless in Gaza
+Anno di pubblicazione: 1967
+Numero di pagine: 241
+Periodicità: SETTIMANALE
+, 
+ISBN: 1804256983
+Titolo: East of Eden
+Anno di pubblicazione: 1935
+Numero di pagine: 378
+Periodicità: SETTIMANALE
+, 
+ISBN: 1337414390
+Titolo: This Lime Tree Bower
+Anno di pubblicazione: 1932
+Numero di pagine: 310
+Periodicità: SEMESTRALE
+, 
+ISBN: 1424074021
+Titolo: All Passion Spent
+Anno di pubblicazione: 1931
+Numero di pagine: 172
+Periodicità: SETTIMANALE
 ]
