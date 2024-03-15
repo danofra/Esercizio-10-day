@@ -1,0 +1,301 @@
+[
+ISBN: 1680329081
+Titolo: The Moving Toyshop
+Anno di pubblicazione: 1911
+Numero di pagine: 238
+Periodicità: MENSILE
+, 
+ISBN: 1915006997
+Titolo: Beyond the Mexique Bay
+Anno di pubblicazione: 1993
+Numero di pagine: 166
+Periodicità: MENSILE
+, 
+ISBN: 1630151715
+Titolo: After Many a Summer Dies the Swan
+Anno di pubblicazione: 1995
+Numero di pagine: 109
+Periodicità: SEMESTRALE
+, 
+ISBN: 723654643
+Titolo: Consider the Lilies
+Anno di pubblicazione: 1987
+Numero di pagine: 439
+Periodicità: SEMESTRALE
+, 
+ISBN: 575842523
+Titolo: When the Green Woods Laugh
+Anno di pubblicazione: 1905
+Numero di pagine: 50
+Periodicità: SEMESTRALE
+, 
+ISBN: 928928669
+Titolo: Unweaving the Rainbow
+Anno di pubblicazione: 1915
+Numero di pagine: 170
+Periodicità: MENSILE
+, 
+ISBN: 1099943140
+Titolo: Paths of Glory
+Anno di pubblicazione: 1953
+Numero di pagine: 446
+Periodicità: MENSILE
+, 
+ISBN: 361996269
+Titolo: The Last Temptation
+Anno di pubblicazione: 1994
+Numero di pagine: 120
+Periodicità: MENSILE
+, 
+ISBN: 889023442
+Titolo: The Grapes of Wrath
+Anno di pubblicazione: 1938
+Numero di pagine: 332
+Periodicità: SETTIMANALE
+, 
+ISBN: 477894841
+Titolo: Many Waters
+Anno di pubblicazione: 1932
+Numero di pagine: 124
+Periodicità: SEMESTRALE
+, 
+ISBN: 768106936
+Titolo: It's a Battlefield
+Anno di pubblicazione: 1966
+Numero di pagine: 126
+Periodicità: MENSILE
+, 
+ISBN: 1546449116
+Titolo: Françoise Sagan
+Anno di pubblicazione: 1988
+Numero di pagine: 250
+Periodicità: SETTIMANALE
+, 
+ISBN: 1308523190
+Titolo: Time To Murder And Create
+Anno di pubblicazione: 1953
+Numero di pagine: 327
+Periodicità: SETTIMANALE
+, 
+ISBN: 326860055
+Titolo: Quo Vadis
+Anno di pubblicazione: 1915
+Numero di pagine: 165
+Periodicità: SETTIMANALE
+, 
+ISBN: 291958635
+Titolo: Antic Hay
+Anno di pubblicazione: 1961
+Numero di pagine: 74
+Periodicità: SETTIMANALE
+, 
+ISBN: 574054064
+Titolo: The Sun Also Rises
+Anno di pubblicazione: 1917
+Numero di pagine: 189
+Periodicità: SEMESTRALE
+, 
+ISBN: 1251053329
+Titolo: The Wings of the Dove
+Anno di pubblicazione: 1925
+Numero di pagine: 134
+Periodicità: MENSILE
+, 
+ISBN: 333274403
+Titolo: Lilies of the Field
+Anno di pubblicazione: 2000
+Numero di pagine: 319
+Periodicità: SEMESTRALE
+, 
+ISBN: 1987808350
+Titolo: A Many-Splendoured Thing
+Anno di pubblicazione: 1936
+Numero di pagine: 459
+Periodicità: SETTIMANALE
+, 
+ISBN: 1289780856
+Titolo: The Last Temptation
+Anno di pubblicazione: 2006
+Numero di pagine: 433
+Periodicità: SETTIMANALE
+, 
+ISBN: 1497754207
+Titolo: Death Be Not Proud
+Anno di pubblicazione: 1986
+Numero di pagine: 70
+Periodicità: MENSILE
+, 
+ISBN: 1690999044
+Titolo: Moab Is My Washpot
+Anno di pubblicazione: 1919
+Numero di pagine: 58
+Periodicità: SETTIMANALE
+, 
+ISBN: 672693421
+Titolo: Arms and the Man
+Anno di pubblicazione: 1906
+Numero di pagine: 311
+Periodicità: SEMESTRALE
+, 
+ISBN: 513873011
+Titolo: Recalled to Life
+Anno di pubblicazione: 1945
+Numero di pagine: 204
+Periodicità: SEMESTRALE
+, 
+ISBN: 142206877
+Titolo: Consider Phlebas
+Anno di pubblicazione: 1957
+Numero di pagine: 258
+Periodicità: MENSILE
+, 
+ISBN: 413045611
+Titolo: The Daffodil Sky
+Anno di pubblicazione: 1996
+Numero di pagine: 488
+Periodicità: SEMESTRALE
+, 
+ISBN: 728722839
+Titolo: The Moving Finger
+Anno di pubblicazione: 1911
+Numero di pagine: 440
+Periodicità: MENSILE
+, 
+ISBN: 1599595155
+Titolo: Tender Is the Night
+Anno di pubblicazione: 1908
+Numero di pagine: 76
+Periodicità: SETTIMANALE
+, 
+ISBN: 829666539
+Titolo: A Scanner Darkly
+Anno di pubblicazione: 1997
+Numero di pagine: 337
+Periodicità: SEMESTRALE
+, 
+ISBN: 702910663
+Titolo: The Green Bay Tree
+Anno di pubblicazione: 2011
+Numero di pagine: 229
+Periodicità: MENSILE
+, 
+ISBN: 917247372
+Titolo: I Know Why the Caged Bird Sings
+Anno di pubblicazione: 1974
+Numero di pagine: 350
+Periodicità: SEMESTRALE
+, 
+ISBN: 942839715
+Titolo: The Man Within
+Anno di pubblicazione: 2004
+Numero di pagine: 291
+Periodicità: SETTIMANALE
+, 
+ISBN: 170720337
+Titolo: The Moon by Night
+Anno di pubblicazione: 1956
+Numero di pagine: 431
+Periodicità: SETTIMANALE
+, 
+ISBN: 161624517
+Titolo: Fear and Trembling
+Anno di pubblicazione: 1956
+Numero di pagine: 473
+Periodicità: SEMESTRALE
+, 
+ISBN: 1820255537
+Titolo: I Know Why the Caged Bird Sings
+Anno di pubblicazione: 2016
+Numero di pagine: 109
+Periodicità: SETTIMANALE
+, 
+ISBN: 532822288
+Titolo: The Needle's Eye
+Anno di pubblicazione: 1996
+Numero di pagine: 456
+Periodicità: SETTIMANALE
+, 
+ISBN: 561012101
+Titolo: If I Forget Thee Jerusalem
+Anno di pubblicazione: 1940
+Numero di pagine: 209
+Periodicità: SETTIMANALE
+, 
+ISBN: 1058213092
+Titolo: Arms and the Man
+Anno di pubblicazione: 1922
+Numero di pagine: 435
+Periodicità: MENSILE
+, 
+ISBN: 1053691466
+Titolo: A Passage to India
+Anno di pubblicazione: 1972
+Numero di pagine: 130
+Periodicità: SEMESTRALE
+, 
+ISBN: 392551618
+Titolo: Many Waters
+Anno di pubblicazione: 2017
+Numero di pagine: 305
+Periodicità: SEMESTRALE
+, 
+ISBN: 1276503069
+Titolo: The Moving Toyshop
+Anno di pubblicazione: 1958
+Numero di pagine: 94
+Periodicità: MENSILE
+, 
+ISBN: 1877181109
+Titolo: The Golden Apples of the Sun
+Anno di pubblicazione: 1902
+Numero di pagine: 248
+Periodicità: SETTIMANALE
+, 
+ISBN: 879945643
+Titolo: The Widening Gyre
+Anno di pubblicazione: 1974
+Numero di pagine: 441
+Periodicità: SETTIMANALE
+, 
+ISBN: 1205668324
+Titolo: Time of our Darkness
+Anno di pubblicazione: 1966
+Numero di pagine: 287
+Periodicità: SETTIMANALE
+, 
+ISBN: 91617990
+Titolo: Noli Me Tangere
+Anno di pubblicazione: 1911
+Numero di pagine: 372
+Periodicità: SETTIMANALE
+, 
+ISBN: 40461370
+Titolo: The Lathe of Heaven
+Anno di pubblicazione: 1996
+Numero di pagine: 58
+Periodicità: SETTIMANALE
+, 
+ISBN: 522123985
+Titolo: Gone with the Wind
+Anno di pubblicazione: 1962
+Numero di pagine: 171
+Periodicità: MENSILE
+, 
+ISBN: 1552339281
+Titolo: The Moving Toyshop
+Anno di pubblicazione: 1971
+Numero di pagine: 235
+Periodicità: SEMESTRALE
+, 
+ISBN: 1977113280
+Titolo: The Wings of the Dove
+Anno di pubblicazione: 2018
+Numero di pagine: 109
+Periodicità: SETTIMANALE
+, 
+ISBN: 133590423
+Titolo: To Sail Beyond the Sunset
+Anno di pubblicazione: 2000
+Numero di pagine: 443
+Periodicità: SEMESTRALE
+]
