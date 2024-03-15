@@ -1,351 +1,351 @@
 [
-ISBN: 1922859811
-Titolo: What's Become of Waring
-Anno di pubblicazione: 1967
-Numero di pagine: 195
-Autore: Ronnie Harris
-Genere: Science fiction
-, 
-ISBN: 1542323748
-Titolo: A Scanner Darkly
-Anno di pubblicazione: 2002
-Numero di pagine: 118
-Autore: Dr. Leta Stamm
-Genere: Essay
-, 
-ISBN: 31246457
-Titolo: Consider Phlebas
-Anno di pubblicazione: 1999
-Numero di pagine: 140
-Autore: Elodia Fisher
-Genere: Comic/Graphic Novel
-, 
-ISBN: 343934688
-Titolo: Dance Dance Dance
-Anno di pubblicazione: 1938
-Numero di pagine: 254
-Autore: Ronnie Harris
-Genere: Reference book
-, 
-ISBN: 1949847832
-Titolo: As I Lay Dying
-Anno di pubblicazione: 1988
-Numero di pagine: 410
-Autore: Dr. Leta Stamm
+ISBN: 325707042
+Titolo: This Side of Paradise
+Anno di pubblicazione: 1900
+Numero di pagine: 310
+Autore: Darcey Jacobs V
 Genere: Legend
 , 
-ISBN: 67782982
-Titolo: The Far-Distant Oxus
-Anno di pubblicazione: 1954
-Numero di pagine: 369
-Autore: Ronnie Harris
-Genere: Fantasy
-, 
-ISBN: 1712036967
-Titolo: A Scanner Darkly
-Anno di pubblicazione: 1999
-Numero di pagine: 354
-Autore: Elodia Fisher
-Genere: Realistic fiction
-, 
-ISBN: 1127047206
-Titolo: The Waste Land
-Anno di pubblicazione: 2018
-Numero di pagine: 153
-Autore: Ronnie Harris
-Genere: Mythology
-, 
-ISBN: 1558393740
-Titolo: The Violent Bear It Away
-Anno di pubblicazione: 1916
-Numero di pagine: 459
-Autore: Ronnie Harris
-Genere: Essay
-, 
-ISBN: 1583486274
-Titolo: Bury My Heart at Wounded Knee
-Anno di pubblicazione: 1961
-Numero di pagine: 445
-Autore: Dr. Leta Stamm
-Genere: Textbook
-, 
-ISBN: 892238076
-Titolo: If I Forget Thee Jerusalem
-Anno di pubblicazione: 1984
-Numero di pagine: 370
-Autore: Ronnie Harris
-Genere: Suspense/Thriller
-, 
-ISBN: 548800899
-Titolo: The Lathe of Heaven
-Anno di pubblicazione: 2017
-Numero di pagine: 140
-Autore: Ronnie Harris
-Genere: Narrative nonfiction
-, 
-ISBN: 1245659485
-Titolo: Taming a Sea Horse
-Anno di pubblicazione: 2003
-Numero di pagine: 195
-Autore: Elodia Fisher
-Genere: Folklore
-, 
-ISBN: 145859610
-Titolo: Shall not Perish
-Anno di pubblicazione: 1923
-Numero di pagine: 78
-Autore: Dr. Leta Stamm
-Genere: Fairy tale
-, 
-ISBN: 1826357822
-Titolo: All the King's Men
-Anno di pubblicazione: 1994
-Numero di pagine: 198
-Autore: Neville Bruen V
-Genere: Textbook
-, 
-ISBN: 394973638
-Titolo: Dying of the Light
-Anno di pubblicazione: 1941
-Numero di pagine: 92
-Autore: Ronnie Harris
-Genere: Comic/Graphic Novel
-, 
-ISBN: 429344089
-Titolo: Moab Is My Washpot
-Anno di pubblicazione: 2020
-Numero di pagine: 303
-Autore: Ronnie Harris
-Genere: Fanfiction
-, 
-ISBN: 1874357261
-Titolo: Lilies of the Field
-Anno di pubblicazione: 1938
-Numero di pagine: 490
-Autore: Ronnie Harris
-Genere: Fanfiction
-, 
-ISBN: 854213586
-Titolo: Pale Kings and Princes
-Anno di pubblicazione: 1987
-Numero di pagine: 287
-Autore: Dr. Leta Stamm
-Genere: Biography/Autobiography
-, 
-ISBN: 862403689
-Titolo: The Wings of the Dove
-Anno di pubblicazione: 1933
-Numero di pagine: 190
-Autore: Elodia Fisher
-Genere: Essay
-, 
-ISBN: 218866772
-Titolo: Oh! To be in England
-Anno di pubblicazione: 1988
-Numero di pagine: 174
-Autore: Ronnie Harris
-Genere: Fable
-, 
-ISBN: 1647412433
-Titolo: The Skull Beneath the Skin
-Anno di pubblicazione: 2000
-Numero di pagine: 196
-Autore: Dr. Leta Stamm
-Genere: Horror
-, 
-ISBN: 1846125278
-Titolo: To Your Scattered Bodies Go
-Anno di pubblicazione: 1932
-Numero di pagine: 82
-Autore: Ronnie Harris
-Genere: Crime/Detective
-, 
-ISBN: 905184855
-Titolo: In a Dry Season
-Anno di pubblicazione: 1902
-Numero di pagine: 185
-Autore: Ronnie Harris
-Genere: Suspense/Thriller
-, 
-ISBN: 283739865
-Titolo: An Acceptable Time
-Anno di pubblicazione: 1990
-Numero di pagine: 424
-Autore: Elodia Fisher
-Genere: Reference book
-, 
-ISBN: 1179755255
-Titolo: The Waste Land
-Anno di pubblicazione: 1950
-Numero di pagine: 160
-Autore: Ronnie Harris
-Genere: Classic
-, 
-ISBN: 787523371
-Titolo: Gone with the Wind
-Anno di pubblicazione: 2007
-Numero di pagine: 125
-Autore: Ronnie Harris
-Genere: Fable
-, 
-ISBN: 1731298371
-Titolo: The Man Within
-Anno di pubblicazione: 1912
-Numero di pagine: 356
-Autore: Elodia Fisher
+ISBN: 802475742
+Titolo: A Handful of Dust
+Anno di pubblicazione: 1953
+Numero di pagine: 264
+Autore: Odell Hoppe
 Genere: Historical fiction
 , 
-ISBN: 1285774108
-Titolo: A Monstrous Regiment of Women
-Anno di pubblicazione: 1961
-Numero di pagine: 340
-Autore: Dr. Leta Stamm
-Genere: Legend
+ISBN: 1719550869
+Titolo: Beyond the Mexique Bay
+Anno di pubblicazione: 2009
+Numero di pagine: 457
+Autore: Odell Hoppe
+Genere: Suspense/Thriller
 , 
-ISBN: 1679936000
-Titolo: A Swiftly Tilting Planet
-Anno di pubblicazione: 1906
-Numero di pagine: 323
-Autore: Ronnie Harris
-Genere: Mythopoeia
+ISBN: 8387989
+Titolo: Many Waters
+Anno di pubblicazione: 1950
+Numero di pagine: 464
+Autore: Gilberto Spencer Jr.
+Genere: Speech
 , 
-ISBN: 950957466
-Titolo: Frequent Hearses
-Anno di pubblicazione: 2016
-Numero di pagine: 385
-Autore: Dr. Leta Stamm
-Genere: Fanfiction
-, 
-ISBN: 581953426
-Titolo: Time of our Darkness
-Anno di pubblicazione: 2017
-Numero di pagine: 369
-Autore: Ronnie Harris
-Genere: Short story
-, 
-ISBN: 808549577
-Titolo: The Man Within
-Anno di pubblicazione: 1955
-Numero di pagine: 228
-Autore: Neville Bruen V
-Genere: Fairy tale
-, 
-ISBN: 847363378
-Titolo: Blood's a Rover
-Anno di pubblicazione: 2007
-Numero di pagine: 444
-Autore: Dr. Leta Stamm
-Genere: Comic/Graphic Novel
-, 
-ISBN: 1472730955
-Titolo: Things Fall Apart
-Anno di pubblicazione: 2004
-Numero di pagine: 273
-Autore: Neville Bruen V
-Genere: Mythology
-, 
-ISBN: 1568708920
-Titolo: Fair Stood the Wind for France
-Anno di pubblicazione: 1987
-Numero di pagine: 497
-Autore: Elodia Fisher
-Genere: Fiction in verse
-, 
-ISBN: 987488634
-Titolo: Oh! To be in England
-Anno di pubblicazione: 2004
-Numero di pagine: 132
-Autore: Ronnie Harris
-Genere: Short story
-, 
-ISBN: 1634410832
-Titolo: The Cricket on the Hearth
-Anno di pubblicazione: 1934
-Numero di pagine: 209
-Autore: Elodia Fisher
-Genere: Legend
-, 
-ISBN: 451127978
-Titolo: I Know Why the Caged Bird Sings
-Anno di pubblicazione: 1983
-Numero di pagine: 180
-Autore: Ronnie Harris
-Genere: Mystery
-, 
-ISBN: 1908614086
-Titolo: Fear and Trembling
-Anno di pubblicazione: 2004
-Numero di pagine: 284
-Autore: Neville Bruen V
-Genere: Humor
-, 
-ISBN: 131406442
-Titolo: The Last Temptation
-Anno di pubblicazione: 1944
-Numero di pagine: 378
-Autore: Ronnie Harris
-Genere: Folklore
-, 
-ISBN: 715935932
-Titolo: Blood's a Rover
-Anno di pubblicazione: 1905
-Numero di pagine: 249
-Autore: Elodia Fisher
-Genere: Horror
-, 
-ISBN: 1051573697
-Titolo: Paths of Glory
-Anno di pubblicazione: 1919
-Numero di pagine: 410
-Autore: Ronnie Harris
-Genere: Narrative nonfiction
-, 
-ISBN: 988863344
-Titolo: Let Us Now Praise Famous Men
-Anno di pubblicazione: 1904
-Numero di pagine: 173
-Autore: Dr. Leta Stamm
+ISBN: 1441687765
+Titolo: Alone on a Wide, Wide Sea
+Anno di pubblicazione: 1999
+Numero di pagine: 65
+Autore: Dixie Corkery
 Genere: Science fiction
 , 
-ISBN: 580418674
-Titolo: A Passage to India
-Anno di pubblicazione: 1920
-Numero di pagine: 149
-Autore: Elodia Fisher
-Genere: Fantasy
+ISBN: 578032315
+Titolo: Cover Her Face
+Anno di pubblicazione: 1961
+Numero di pagine: 359
+Autore: Gilberto Spencer Jr.
+Genere: Suspense/Thriller
 , 
-ISBN: 1023476601
-Titolo: The Lathe of Heaven
-Anno di pubblicazione: 1962
-Numero di pagine: 301
-Autore: Neville Bruen V
-Genere: Fanfiction
+ISBN: 1859652744
+Titolo: An Instant In The Wind
+Anno di pubblicazione: 2020
+Numero di pagine: 276
+Autore: Odell Hoppe
+Genere: Reference book
 , 
-ISBN: 1356101178
-Titolo: The Golden Bowl
-Anno di pubblicazione: 1998
-Numero di pagine: 78
-Autore: Elodia Fisher
-Genere: Fable
+ISBN: 564644449
+Titolo: Bury My Heart at Wounded Knee
+Anno di pubblicazione: 1911
+Numero di pagine: 274
+Autore: Dixie Corkery
+Genere: Speech
 , 
-ISBN: 726478108
-Titolo: To a God Unknown
-Anno di pubblicazione: 1947
-Numero di pagine: 407
-Autore: Elodia Fisher
+ISBN: 536586491
+Titolo: Infinite Jest
+Anno di pubblicazione: 1925
+Numero di pagine: 147
+Autore: Dixie Corkery
+Genere: Western
+, 
+ISBN: 1733682145
+Titolo: Have His Carcase
+Anno di pubblicazione: 1946
+Numero di pagine: 320
+Autore: Gilberto Spencer Jr.
+Genere: Humor
+, 
+ISBN: 1032742501
+Titolo: Brandy of the Damned
+Anno di pubblicazione: 1948
+Numero di pagine: 492
+Autore: Gilberto Spencer Jr.
+Genere: Comic/Graphic Novel
+, 
+ISBN: 272269601
+Titolo: The Stars' Tennis Balls
+Anno di pubblicazione: 1971
+Numero di pagine: 429
+Autore: Gilberto Spencer Jr.
+Genere: Science fiction
+, 
+ISBN: 547761705
+Titolo: The Moon by Night
+Anno di pubblicazione: 1993
+Numero di pagine: 463
+Autore: Odell Hoppe
+Genere: Metafiction
+, 
+ISBN: 753216975
+Titolo: In Death Ground
+Anno di pubblicazione: 1936
+Numero di pagine: 154
+Autore: Odell Hoppe
+Genere: Horror
+, 
+ISBN: 1549592081
+Titolo: Carrion Comfort
+Anno di pubblicazione: 2006
+Numero di pagine: 303
+Autore: Darcey Jacobs V
 Genere: Essay
 , 
-ISBN: 675226174
-Titolo: I Sing the Body Electric
-Anno di pubblicazione: 1935
-Numero di pagine: 417
-Autore: Ronnie Harris
+ISBN: 1259114147
+Titolo: The Violent Bear It Away
+Anno di pubblicazione: 1934
+Numero di pagine: 342
+Autore: Darcey Jacobs V
+Genere: Fanfiction
+, 
+ISBN: 1231541141
+Titolo: Arms and the Man
+Anno di pubblicazione: 1948
+Numero di pagine: 79
+Autore: Dixie Corkery
 Genere: Short story
 , 
-ISBN: 1608830052
-Titolo: To Your Scattered Bodies Go
-Anno di pubblicazione: 1979
-Numero di pagine: 203
-Autore: Ronnie Harris
-Genere: Metafiction
+ISBN: 930134178
+Titolo: The Road Less Traveled
+Anno di pubblicazione: 2019
+Numero di pagine: 112
+Autore: Odell Hoppe
+Genere: Legend
+, 
+ISBN: 595601172
+Titolo: Ego Dominus Tuus
+Anno di pubblicazione: 1976
+Numero di pagine: 431
+Autore: Odell Hoppe
+Genere: Western
+, 
+ISBN: 1819881558
+Titolo: The Wives of Bath
+Anno di pubblicazione: 1912
+Numero di pagine: 288
+Autore: Dixie Corkery
+Genere: Fiction narrative
+, 
+ISBN: 580497176
+Titolo: A Swiftly Tilting Planet
+Anno di pubblicazione: 1959
+Numero di pagine: 467
+Autore: Dixie Corkery
+Genere: Fantasy
+, 
+ISBN: 442208537
+Titolo: If I Forget Thee Jerusalem
+Anno di pubblicazione: 1960
+Numero di pagine: 127
+Autore: Gilberto Spencer Jr.
+Genere: Fairy tale
+, 
+ISBN: 1552200596
+Titolo: The Skull Beneath the Skin
+Anno di pubblicazione: 2001
+Numero di pagine: 200
+Autore: Odell Hoppe
+Genere: Comic/Graphic Novel
+, 
+ISBN: 574086217
+Titolo: The Glory and the Dream
+Anno di pubblicazione: 1971
+Numero di pagine: 441
+Autore: Odell Hoppe
+Genere: Historical fiction
+, 
+ISBN: 1379399974
+Titolo: The Lathe of Heaven
+Anno di pubblicazione: 1987
+Numero di pagine: 313
+Autore: Odell Hoppe
+Genere: Humor
+, 
+ISBN: 1043820690
+Titolo: Brandy of the Damned
+Anno di pubblicazione: 1924
+Numero di pagine: 462
+Autore: Dixie Corkery
+Genere: Fable
+, 
+ISBN: 1453321303
+Titolo: Everything is Illuminated
+Anno di pubblicazione: 1992
+Numero di pagine: 382
+Autore: Odell Hoppe
+Genere: Classic
+, 
+ISBN: 1700505897
+Titolo: An Instant In The Wind
+Anno di pubblicazione: 2002
+Numero di pagine: 465
+Autore: Dixie Corkery
+Genere: Tall tale
+, 
+ISBN: 700223632
+Titolo: For Whom the Bell Tolls
+Anno di pubblicazione: 2006
+Numero di pagine: 462
+Autore: Darcey Jacobs V
+Genere: Historical fiction
+, 
+ISBN: 1368213807
+Titolo: No Country for Old Men
+Anno di pubblicazione: 1940
+Numero di pagine: 135
+Autore: Darcey Jacobs V
+Genere: Science fiction
+, 
+ISBN: 1941622879
+Titolo: It's a Battlefield
+Anno di pubblicazione: 1928
+Numero di pagine: 225
+Autore: Gilberto Spencer Jr.
+Genere: Short story
+, 
+ISBN: 711215284
+Titolo: In a Dry Season
+Anno di pubblicazione: 1920
+Numero di pagine: 298
+Autore: Darcey Jacobs V
+Genere: Science fiction
+, 
+ISBN: 431462513
+Titolo: The Needle's Eye
+Anno di pubblicazione: 1965
+Numero di pagine: 237
+Autore: Gilberto Spencer Jr.
+Genere: Textbook
+, 
+ISBN: 1780016007
+Titolo: If Not Now, When?
+Anno di pubblicazione: 1989
+Numero di pagine: 285
+Autore: Odell Hoppe
+Genere: Mystery
+, 
+ISBN: 1768856180
+Titolo: Taming a Sea Horse
+Anno di pubblicazione: 1937
+Numero di pagine: 221
+Autore: Dixie Corkery
+Genere: Horror
+, 
+ISBN: 354890587
+Titolo: Frequent Hearses
+Anno di pubblicazione: 1914
+Numero di pagine: 246
+Autore: Gilberto Spencer Jr.
+Genere: Fantasy
+, 
+ISBN: 1015940407
+Titolo: Ring of Bright Water
+Anno di pubblicazione: 1906
+Numero di pagine: 372
+Autore: Dixie Corkery
+Genere: Mystery
+, 
+ISBN: 1450760628
+Titolo: Françoise Sagan
+Anno di pubblicazione: 1926
+Numero di pagine: 225
+Autore: Odell Hoppe
+Genere: Fairy tale
+, 
+ISBN: 40272555
+Titolo: Dying of the Light
+Anno di pubblicazione: 1993
+Numero di pagine: 444
+Autore: Dixie Corkery
+Genere: Suspense/Thriller
+, 
+ISBN: 1542917432
+Titolo: Fame Is the Spur
+Anno di pubblicazione: 1949
+Numero di pagine: 433
+Autore: Dixie Corkery
+Genere: Mythology
+, 
+ISBN: 1163151829
+Titolo: Antic Hay
+Anno di pubblicazione: 2001
+Numero di pagine: 457
+Autore: Darcey Jacobs V
+Genere: Mystery
+, 
+ISBN: 552284517
+Titolo: The Skull Beneath the Skin
+Anno di pubblicazione: 1956
+Numero di pagine: 100
+Autore: Gilberto Spencer Jr.
+Genere: Legend
+, 
+ISBN: 1955176825
+Titolo: Things Fall Apart
+Anno di pubblicazione: 1936
+Numero di pagine: 282
+Autore: Dixie Corkery
+Genere: Mystery
+, 
+ISBN: 1927366039
+Titolo: Time of our Darkness
+Anno di pubblicazione: 2013
+Numero di pagine: 183
+Autore: Gilberto Spencer Jr.
+Genere: Science fiction
+, 
+ISBN: 1078260422
+Titolo: Clouds of Witness
+Anno di pubblicazione: 1926
+Numero di pagine: 413
+Autore: Odell Hoppe
+Genere: Essay
+, 
+ISBN: 1911110394
+Titolo: Lilies of the Field
+Anno di pubblicazione: 1963
+Numero di pagine: 199
+Autore: Dixie Corkery
+Genere: Folklore
+, 
+ISBN: 1238289688
+Titolo: The Yellow Meads of Asphodel
+Anno di pubblicazione: 1998
+Numero di pagine: 435
+Autore: Odell Hoppe
+Genere: Reference book
+, 
+ISBN: 1387170726
+Titolo: Brandy of the Damned
+Anno di pubblicazione: 1916
+Numero di pagine: 163
+Autore: Gilberto Spencer Jr.
+Genere: Fanfiction
+, 
+ISBN: 1112024081
+Titolo: What's Become of Waring
+Anno di pubblicazione: 1902
+Numero di pagine: 199
+Autore: Gilberto Spencer Jr.
+Genere: Western
+, 
+ISBN: 292982937
+Titolo: Recalled to Life
+Anno di pubblicazione: 1944
+Numero di pagine: 78
+Autore: Dixie Corkery
+Genere: Science fiction
 ]
