@@ -82,12 +82,7 @@ public class Application {
                         case 2:
                             System.out.println("Inserire l' ISBN del libro da visualizzare");
                             int ISBN3 = scanner.nextInt();
-                            for (Libri libro1 : libriList) {
-                                if ((libro1.getISBN()) == ISBN3) {
-                                    System.out.println(libro1);
-                                    break;
-                                }
-                            }
+                            libriList.stream().filter(riviste -> riviste.getISBN() == ISBN3).collect(Collectors.toList()).forEach(System.out::println);
                             break;
                         case 3:
                             System.out.println("Inserire l'anno di pubblicazione dei libri da visualizzare");
@@ -164,12 +159,7 @@ public class Application {
                         case 2:
                             System.out.println("Inserire l' ISBN della rivista da visualizzare");
                             int ISBN4 = scanner.nextInt();
-                            for (Riviste rivista1 : rivisteList) {
-                                if ((rivista1.getISBN()) == ISBN4) {
-                                    System.out.println(rivista1);
-                                    break;
-                                }
-                            }
+                            rivisteList.stream().filter(riviste -> riviste.getISBN() == ISBN4).collect(Collectors.toList()).forEach(System.out::println);
                             break;
                         case 3:
                             System.out.println("Inserire l'anno di pubblicazione della rivista da visualizzare");
