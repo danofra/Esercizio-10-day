@@ -9,30 +9,33 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
+import java.util.function.Supplier;
 import java.util.stream.Collectors;
 
 public class Application {
 
     public static void main(String[] args) {
         Random random = new Random();
-        //LIBRI
+        Faker faker1 = new Faker();
+        periodicita[] values = periodicita.values();
+        List<String> autoriList = new ArrayList<>();
+        autoriList.add(faker1.book().author());
+        autoriList.add(faker1.book().author());
+        autoriList.add(faker1.book().author());
+        autoriList.add(faker1.book().author());
+        Supplier<Libri> randomLibri = () -> new Libri(random.nextInt(1, 2000000000), faker1.book().title(), random.nextInt(1900, 2024), random.nextInt(50, 500), autoriList.get(random.nextInt(0, autoriList.size())), faker1.book().genre());
+        Supplier<Riviste> randomRiviste = () -> new Riviste(random.nextInt(1, 2000000000), faker1.book().title(), random.nextInt(1900, 2024), random.nextInt(50, 500), values[random.nextInt(0, values.length)]);
+        //LIBRI RANDOM
         List<Libri> libriList = new ArrayList<>();
-        Faker faker = new Faker();
-        Libri l1 = new Libri(1234567891, faker.book().title(), random.nextInt(1900, 2024), random.nextInt(50, 500), faker.book().author(), faker.book().genre());
-        Libri l2 = new Libri(1234567892, faker.book().title(), random.nextInt(1900, 2024), random.nextInt(50, 500), faker.book().author(), faker.book().genre());
-        Libri l3 = new Libri(1234567893, faker.book().title(), random.nextInt(1900, 2024), random.nextInt(50, 500), faker.book().author(), faker.book().genre());
-        libriList.add(l1);
-        libriList.add(l2);
-        libriList.add(l3);
+        for (int i = 0; i < 50; i++) {
+            libriList.add(randomLibri.get());
+        }
         libriList.forEach(System.out::println);
-        //RIVISTE
+        //RIVISTE RANDOM
         List<Riviste> rivisteList = new ArrayList<>();
-        Riviste r1 = new Riviste(1234567894, faker.book().title(), random.nextInt(1900, 2024), random.nextInt(50, 500), periodicita.MENSILE);
-        Riviste r2 = new Riviste(1234567895, faker.book().title(), random.nextInt(1900, 2024), random.nextInt(50, 500), periodicita.SEMESTRALE);
-        Riviste r3 = new Riviste(1234567896, faker.book().title(), random.nextInt(1900, 2024), random.nextInt(50, 500), periodicita.SETTIMANALE);
-        rivisteList.add(r1);
-        rivisteList.add(r2);
-        rivisteList.add(r3);
+        for (int i = 0; i < 50; i++) {
+            rivisteList.add(randomRiviste.get());
+        }
         rivisteList.forEach(System.out::println);
         // Scanner per la scelta dell'utente
         Scanner scanner = new Scanner(System.in);
@@ -179,20 +182,20 @@ public class Application {
             case 3:
                 System.exit(0);
         }
-        System.out.println("Vuoi continuare? (s/n)");
-        System.out.println("1. Si");
-        System.out.println("2. No");
-        int scelta3;
-        do {
-            scelta3 = scanner.nextInt();
-            if (scelta3 == 1) {
-                break;
-            } else if (scelta3 == 2) {
-                System.exit(0);
-            } else {
-                System.out.println("Scelta non valida, inserire 1 o 2.");
-            }
-        } while (true);
+//        System.out.println("Vuoi continuare? (s/n)");
+//        System.out.println("1. Si");
+//        System.out.println("2. No");
+//        int scelta3;
+//        do {
+//            scelta3 = scanner.nextInt();
+//            if (scelta3 == 1) {
+//                break;
+//            } else if (scelta3 == 2) {
+//                System.exit(0);
+//            } else {
+//                System.out.println("Scelta non valida, inserire 1 o 2.");
+//            }
+//        } while (true);
 
     }
 }
